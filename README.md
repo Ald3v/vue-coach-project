@@ -7,5 +7,5 @@ npm install
 
 ### Compiles and live-server for development
 ```
-mpm run serve
+npm run serve
 ```
